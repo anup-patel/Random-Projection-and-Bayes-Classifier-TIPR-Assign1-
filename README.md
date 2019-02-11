@@ -10,3 +10,7 @@ file-name can be :
 1) twitter
 2) pubmed
 3) dolphins
+
+
+Example: 
+$python main.py dolphins
