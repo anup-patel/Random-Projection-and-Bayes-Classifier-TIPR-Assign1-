@@ -4,7 +4,7 @@ Assignment 1
 
 How to Run ------
 
-$python main.py <file-name>
+$python main.py file-name
   
 file-name can be :
 1) twitter
