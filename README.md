@@ -4,7 +4,7 @@ Assignment 1
 
 How to Run ------
 
-$python main.py file-name
+$python main.py file-name file_path
   
 file-name can be :
 1) twitter
@@ -13,4 +13,4 @@ file-name can be :
 
 
 Example: 
-$python main.py dolphins
+$python main.py dolphins data/test_file1.txt
